@@ -1,1 +1,1 @@
-
+script for absolute path
